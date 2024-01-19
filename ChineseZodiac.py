@@ -23,5 +23,5 @@ for i in range(cases):
     animals = ["Rat", "Ox", "Tiger", "Rabbit", "Dragon", "Snake", "Horse", "Goat", "Monkey", "Rooster", "Dog", "Pig"]
     year = line - 4
     year = year%12
-    print(animals[year], end = " ")
+    print(animals[year])
         
